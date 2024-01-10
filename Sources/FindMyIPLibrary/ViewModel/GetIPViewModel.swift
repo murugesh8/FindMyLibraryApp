@@ -18,7 +18,7 @@ enum AppState:Equatable {
                (.success, .success):
               return true
           case (.failed(_), .failed(_)):
-              return false
+              return true
           default:
               return false
           }

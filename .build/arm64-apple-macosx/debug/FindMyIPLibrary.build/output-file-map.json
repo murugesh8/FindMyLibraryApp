@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/master.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/AppCommon/ErrorView.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/ErrorView.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/ErrorView.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/ErrorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/ErrorView.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/AppCommon/NetworkErrorView.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/NetworkErrorView.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/NetworkErrorView.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/NetworkErrorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/AppCommon/NetworkErrorView.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/Extensions/Extension.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Extensions/Extension.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Extensions/Extension.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Extensions/Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Extensions/Extension.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/Model/GetIpModel.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Model/GetIpModel.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Model/GetIpModel.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Model/GetIpModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Model/GetIpModel.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/NetworkLayer/MockNetworkManager.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/MockNetworkManager.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/MockNetworkManager.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/MockNetworkManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/MockNetworkManager.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/NetworkLayer/Network.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/Network.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/Network.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/Network~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/NetworkLayer/Network.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/Utils/NetworkMonitor.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Utils/NetworkMonitor.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Utils/NetworkMonitor.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Utils/NetworkMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/Utils/NetworkMonitor.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/View/FindMyIPView.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/View/FindMyIPView.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/View/FindMyIPView.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/View/FindMyIPView~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/View/FindMyIPView.swiftdeps"
+  },
+  "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/Sources/FindMyIPLibrary/ViewModel/GetIPViewModel.swift": {
+    "dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/ViewModel/GetIPViewModel.d",
+    "object": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/ViewModel/GetIPViewModel.swift.o",
+    "swiftmodule": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/ViewModel/GetIPViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/ViewModel/GetIPViewModel.swiftdeps"
+  }
+}

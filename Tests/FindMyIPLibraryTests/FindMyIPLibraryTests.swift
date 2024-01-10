@@ -10,7 +10,7 @@ import Combine
 import Alamofire
 
 @testable import FindMyIPLibrary
-open class FindMyIPLibraryTests: XCTestCase {
+final class FindMyIPLibraryTests: XCTestCase {
 
     var cancellables: Set<AnyCancellable> = []
 
@@ -18,11 +18,8 @@ open class FindMyIPLibraryTests: XCTestCase {
     
     var mockNetwork:MockNetworkManager?
     
-    public override init() {
-        super.init()
-    }
    
-    public override func setUpWithError() throws {
+    override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
         super.setUp()
         
@@ -32,7 +29,7 @@ open class FindMyIPLibraryTests: XCTestCase {
 
     }
 
-    public override func tearDownWithError() throws {
+    override func tearDownWithError() throws {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
         self.getIpViewModel = nil
         self.mockNetwork = nil
@@ -40,7 +37,7 @@ open class FindMyIPLibraryTests: XCTestCase {
     }
     
     // MARK: - Success Test Case
-    public func testGetIPAPISuccess(){
+    func testGetIPAPISuccess(){
 
         let expectation = XCTestExpectation(description: "Get IP API call expectation")
 
@@ -69,7 +66,7 @@ open class FindMyIPLibraryTests: XCTestCase {
     }
     
     // MARK: - Failure Test Case
-    public func testGetIPFailure() {
+    func testGetIPFailure() {
         let expectation = XCTestExpectation(description: "Get IP API call expectation")
 
         // Set up your mock networking to return an error

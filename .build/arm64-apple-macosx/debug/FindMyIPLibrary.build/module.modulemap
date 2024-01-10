@@ -1,0 +1,4 @@
+module FindMyIPLibrary {
+    header "/Users/narendranelumalai/Desktop/TestAPP/FindMyLibraryApp/.build/arm64-apple-macosx/debug/FindMyIPLibrary.build/FindMyIPLibrary-Swift.h"
+    requires objc
+}
